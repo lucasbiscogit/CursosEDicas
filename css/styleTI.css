@@ -19,6 +19,11 @@
    list-style-image: url(../img/ti/SitesMega.jpg);
 }    
 
+#lojaMecanico{
+    list-style-image: url(../img/ti/siteLojaMecanico.jpeg);
+ }    
+ 
+
 /*
 #ListaSempre {
     list-style: none;
