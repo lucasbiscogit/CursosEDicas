@@ -40,7 +40,7 @@ header {
     /*Configuracao do Cabecalho Principal */
     height: 100px;
     padding: 0px;
-    margin: 15px 0px 0px 0px;
+    margin: 5px 0px 5px 0px;
 }
 
 header img {
@@ -87,14 +87,24 @@ header img {
     top: -500px;
 }
 
+#b7 {
+    position: relative;
+    left: 0px;
+    top: -600px;
+}
 
+#b8 {
+    position: relative;
+    left: 0px;
+    top: -700px;
+}
 /*-------------------------------------------- NAV --------------------------------------------*/
 
 nav {
     /*Configuracao do Menu Geral Esquerdo*/
     height: auto;
     width: 155px;
-    margin: -500px 15px 15px -10px;
+    margin: -700px 15px 15px -10px;
     padding: 10px;
     float: left;
 }
@@ -293,7 +303,7 @@ section {
     /*Configuracao do conteudo da pagina*/
     height: auto;
     width: 750px;
-    margin: -490px 0px 15px 0px;
+    margin: -690px 0px 15px 0px;
     padding: 10px;
     float: right;
 }
@@ -344,6 +354,14 @@ section p {
     text-align: center;
     color: #ac0815;
     font-size: 80px;
+    padding: 5px 5px 0px 5px;
+}
+
+#h1titulo2 {
+    text-align: center;
+    color: #ac0815;
+    font-size: 30px;
+    padding: 0px 5px 5px 5px;
 }
 
 
